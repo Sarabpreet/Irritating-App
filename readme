@@ -1,7 +1,8 @@
 #Irritating app for windows
 
-The result after hooking up with processingjs's amazing api's. used maxim for the very first time.
+The result after messing up with processingjs's amazing api's and maxim(sound api for processing.js).
 
+#How to Install : 
 
-no need to install just, click on the start.bat and you're good to go ! 
+You don't need to install, simply click on the start.bat and you're good to go. (it works only on windows) 
 PS: it use's java, do make sure you have java variables set on the right path, and also let me know if you have issues running this piece of code with the error message. 
